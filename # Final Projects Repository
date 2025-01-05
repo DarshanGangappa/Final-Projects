@@ -1,0 +1,23 @@
+# Final Projects Repository
+
+This repository contains final projects demonstrating methods of prediction and machine learning techniques. The projects include HTML-based reports and analyses on various machine learning methods and AI techniques.
+
+## Table of Contents
+1. [Project Files]
+2. [How to Use]
+3. [Installation]
+4. [Contributing]
+
+## Project Files
+- **GH1033102_MethodsOfPrediction_finalProject.html**: Overview of various prediction methods.
+- **GH1033102_ML_Project_.html**: Machine learning project showcasing a specific model.
+- **GH1033102_AI_Final_Project.html**: Final project report on AI techniques and their applications.
+
+## How to Use
+- Download or clone the repository to your local machine.
+- Open the HTML files in your browser to view the content.
+
+## Installation
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/YourUsername/Final-Projects-Repo.git
